@@ -1,6 +1,6 @@
 {
   "name": "freighter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A flux storage mixin for reactjs components.",
   "license": "MIT",
   "main": "src/index.js",
@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sstate/antares.git"
+    "url": "git@github.com:sstate/freighter.git"
   },
   "author": "mattwondra <mattwondra@gmail.com> (http://mattwondra.com/)",
   "contributors": [
