@@ -25,13 +25,12 @@ to watch for updates on, in your Reactjs class.
 
 The best way to use this mixin is to implement a function in your store that will return your component state.
 
-'''
-
+```
 getStateFromStores: function(){
   return HelloWorldStore.getDataFromStore();
 },
 
-'''
+```
 
 You can see the example of [HelloWorldStore.getDataFromStore()](https://github.com/sstate/freighter/blob/master/examples/stores/HelloWorldStore.js#L26).
 
