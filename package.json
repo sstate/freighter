@@ -1,6 +1,6 @@
 {
   "name": "freighter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A flux storage mixin for reactjs components.",
   "license": "MIT",
   "main": "src/index.js",
