@@ -4,7 +4,7 @@
 
 A flux storage mixin for reactjs components. This helps you bind your storage updates to your react classes and a DRY way. Please check out the `examples` directory.
 
-Demo [[source](https://github.com/sstate/examples#flux-todomvc---freighter) [live demo](http://sstate.github.io/examples/examples/flux-todomvc-freighter/)]
+Demo [[source](https://github.com/sstate/examples#flux-todomvc---freighter)] [[live demo](http://sstate.github.io/examples/examples/flux-todomvc-freighter/)]
 
 #### Install
 
