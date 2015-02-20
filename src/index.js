@@ -8,16 +8,16 @@ var Freighter = {
 
   componentDidMount: function(){
     if (!this.stores){
-      throw new Error("You must have a stores array property on your React class while using the Freighter mixin");
+      throw new Error('You must have a stores array property https://github.com/sstate/freighter/blob/master/examples/app.js#L12');
     }
     this.stores.forEach(function(store){
-      store.addChangeListener(this.handleStoresChanged)
+      store.addChangeListener(this.handleStoresChanged);
     }, this);
   },
 
   componentWillUnmount: function(){
     this.stores.forEach(function(store){
-      store.removeChangeListener(this.handleStoresChanged)
+      store.removeChangeListener(this.handleStoresChanged);
     }, this);
   },
 
