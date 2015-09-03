@@ -1,6 +1,6 @@
 {
   "name": "freighter",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "A flux storage mixin for reactjs components.",
   "license": "MIT",
   "main": "src/index.js",
@@ -39,8 +39,8 @@
     ]
   },
   "peerDependencies": {
-    "react": "0.12.x",
-    "flux": "2.0.x"
+    "react": "0.13.x",
+    "flux": "2.1.x"
   },
   "devDependencies": {
     "amp-merge": "^1.0.0",
@@ -48,9 +48,9 @@
     "cargo-bay": "^1.0.0",
     "eslint": "^0.14.1",
     "jest-cli": "^0.4.0",
-    "lcars": "1.0.4",
-    "react": "^0.12.2",
-    "react-tools": "^0.12.2",
+    "lcars": "1.1.0",
+    "react": "^0.13.0",
+    "react-tools": "^0.13.0",
     "reactify": "^1.0.0",
     "watchify": "^2.3.0"
   },
